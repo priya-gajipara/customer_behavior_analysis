@@ -1,59 +1,65 @@
-# customer_behavior_analysis
-<b>About This Project:</b><br>
-This is an end-to-end Data Analytics project that analyzes customer shopping behavior using Python, SQL, and Power BI.
+# 📊 customer_behavior_analysis
 
-The main goal is to understand how customers purchase products, which products and categories perform well, and how factors such as discounts, subscriptions, age, and gender affect customer behavior.
+<h2>📌 About This Project:</h2>
 
-<u><b>->Objectives:</b></u>
-<li>Analyze customer purchasing patterns
+<p>
+This is an end-to-end <b>Data Analytics project</b> that analyzes customer shopping behavior using <b>Python, SQL, and Power BI</b>.
+</p>
 
-- Find the best-performing product categories
+<p>
+The main goal is to understand how customers purchase products, which products and categories perform well, and how factors such as <b>discounts, subscriptions, age, and gender</b> affect customer behavior.
+</p>
 
-- Understand customer preferences
+<h2>🎯 Objectives:</h2>
 
-- Analyze subscription and discount behavior
+<ul>
+  <li>Analyze customer purchasing patterns</li>
+  <li>Find the best-performing product categories</li>
+  <li>Understand customer preferences</li>
+  <li>Analyze subscription and discount behavior</li>
+  <li>Identify valuable customer segments</li>
+  <li>Generate useful business insights</li>
+</ul>
 
-- Identify valuable customer segments
+<h2>🛠️ Technologies Used:</h2>
 
-- Create useful business insights from the data</li>
+<ul>
+  <li><b>Python</b> – Data cleaning and analysis</li>
+  <li><b>Pandas & NumPy</b> – Data manipulation</li>
+  <li><b>Jupyter Notebook</b> – Performing analysis</li>
+  <li><b>SQL / MySQL</b> – Business-related queries</li>
+  <li><b>Power BI</b> – Interactive dashboard and visualization</li>
+  <li><b>CSV</b> – Dataset storage</li>
+</ul>
 
-<u><b>-> Technologies Used:</b></u>
-<li> Python – Data cleaning and analysis
+<h2>🔄 Project Workflow:</h2>
 
-- Pandas & NumPy – Data manipulation
+<p align="center">
+<b>Raw Dataset</b>
+<br>↓<br>
+<b>Data Cleaning using Python</b>
+<br>↓<br>
+<b>Exploratory Data Analysis</b>
+<br>↓<br>
+<b>SQL Analysis</b>
+<br>↓<br>
+<b>Power BI Dashboard</b>
+<br>↓<br>
+<b>Business Insights</b>
+</p>
 
-- Jupyter Notebook – Performing analysis
+<h2>📈 Key Analysis:</h2>
 
-- SQL / MySQL – Business-related queries
+<ul>
+  <li>Customer purchasing behavior</li>
+  <li>Product and category performance</li>
+  <li>Revenue analysis</li>
+  <li>Subscription and discount analysis</li>
+  <li>Customer segmentation</li>
+</ul>
 
-- Power BI – Interactive dashboard and visualization</li>
+<h2>🎯 Outcome:</h2>
 
-<u><b>Project Workflow:</b></u>
-
-Raw Dataset <br>
-     ↓<br>
-Data Cleaning using Python<br>
-     ↓<br>
-Exploratory Data Analysis<br>
-     ↓<br>
-SQL Analysis<br>
-     ↓<br>
-Power BI Dashboard<br>
-     ↓<br>
-Business Insights
-
-<u><b>Key Analysis:</b></u>
-
-Customer purchasing behavior
-
-Product and category performance
-
-Revenue analysis
-
-Subscription and discount analysis
-
-Customer segmentation
-
-
-CSV – Dataset storage
-
+<p>
+The project transforms raw customer data into meaningful <b>business insights</b> that can help improve sales, marketing strategies, and customer retention.
+</p>
