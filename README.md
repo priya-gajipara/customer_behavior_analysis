@@ -4,7 +4,7 @@ This is an end-to-end Data Analytics project that analyzes customer shopping beh
 
 The main goal is to understand how customers purchase products, which products and categories perform well, and how factors such as discounts, subscriptions, age, and gender affect customer behavior.
 
-<u><b>->->Objectives:</b></u>
+<u><b>->Objectives:</b></u>
 <li>
 - Analyze customer purchasing patterns
 
@@ -20,15 +20,15 @@ The main goal is to understand how customers purchase products, which products a
 
 <u><b>-> Technologies Used:</b></u>
 <li>
-Python – Data cleaning and analysis
+- Python – Data cleaning and analysis
 
-Pandas & NumPy – Data manipulation
+- Pandas & NumPy – Data manipulation
 
-Jupyter Notebook – Performing analysis
+- Jupyter Notebook – Performing analysis
 
-SQL / MySQL – Business-related queries
+- SQL / MySQL – Business-related queries
 
-Power BI – Interactive dashboard and visualization
+- Power BI – Interactive dashboard and visualization
 </li>
 
 <u><b>Project Workflow:</b></u>
