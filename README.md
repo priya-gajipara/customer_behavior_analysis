@@ -1,6 +1,6 @@
-# 📊 customer_behavior_analysis
+#  customer_behavior_analysis
 
-<h2>📌 About This Project:</h2>
+<h2> About This Project:</h2>
 
 <p>
 This is an end-to-end <b>Data Analytics project</b> that analyzes customer shopping behavior using <b>Python, SQL, and Power BI</b>.
@@ -10,7 +10,7 @@ This is an end-to-end <b>Data Analytics project</b> that analyzes customer shopp
 The main goal is to understand how customers purchase products, which products and categories perform well, and how factors such as <b>discounts, subscriptions, age, and gender</b> affect customer behavior.
 </p>
 
-<h2>🎯 Objectives:</h2>
+<h2> Objectives:</h2>
 
 <ul>
   <li>Analyze customer purchasing patterns</li>
@@ -21,7 +21,7 @@ The main goal is to understand how customers purchase products, which products a
   <li>Generate useful business insights</li>
 </ul>
 
-<h2>🛠️ Technologies Used:</h2>
+<h2> Technologies Used:</h2>
 
 <ul>
   <li><b>Python</b> – Data cleaning and analysis</li>
@@ -32,7 +32,7 @@ The main goal is to understand how customers purchase products, which products a
   <li><b>CSV</b> – Dataset storage</li>
 </ul>
 
-<h2>🔄 Project Workflow:</h2>
+<h2> Project Workflow:</h2>
 
 <p align="center">
 <b>Raw Dataset</b>
@@ -48,7 +48,7 @@ The main goal is to understand how customers purchase products, which products a
 <b>Business Insights</b>
 </p>
 
-<h2>📈 Key Analysis:</h2>
+<h2> Key Analysis:</h2>
 
 <ul>
   <li>Customer purchasing behavior</li>
@@ -58,7 +58,7 @@ The main goal is to understand how customers purchase products, which products a
   <li>Customer segmentation</li>
 </ul>
 
-<h2>🎯 Outcome:</h2>
+<h2> Outcome:</h2>
 
 <p>
 The project transforms raw customer data into meaningful <b>business insights</b> that can help improve sales, marketing strategies, and customer retention.
